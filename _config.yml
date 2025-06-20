@@ -1,6 +1,5 @@
-yaml
 title: My blog
-theme: minima
+theme: minima             # default GitHub Pages theme
 plugins:
-- jekyll-feed
-- jekyll-seo-tag
+  - jekyll-feed           # optional; good for RSS
+  - jekyll-seo-tag        # optional; adds <meta> tags
