@@ -1,4 +1,4 @@
-title: My blog
+title: Stepping Stones
 theme: minima             # default GitHub Pages theme
 plugins:
   - jekyll-feed           # optional; good for RSS
