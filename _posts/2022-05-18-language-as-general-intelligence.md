@@ -12,11 +12,10 @@ Until recently I agreed with **David Deutsch’s** view that we can’t program 
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">
 AI research is converging on a major finding: language models are a great substrate for all AI applications.<br><br>
-This feels like a HUGE deal.<br><br>
-Some examples:
+This feels like a HUGE deal.
 </p>
 &mdash; Sergey Karayev (@sergeykarayev)
-<a href="https://twitter.com/sergeykarayev/status/1518736919277158400">April 25, 2022</a>
+<a href="https://x.com/sergeykarayev/status/1518677260236034050?s=20&t=4anPxku5L464L7VXB2ZfbQ">April 25, 2022</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!----- /EMBED ----->
@@ -24,8 +23,6 @@ Some examples:
 Recent language models have shown reach beyond *just* language—in robotics, protein folding, etc. Perhaps there’s something special about the knowledge of language that allows a jump to universality.
 
 I don’t know exactly what that is, but Deutsch himself says that the crucial thing is not to understand every detail, but to have a good explanation of **why**. So here’s the case for why the knowledge of language led to human intelligence *and* could lead to AGI.
-
----
 
 ## Universal Explainers
 
@@ -49,8 +46,6 @@ The relationship between language and universal explainers is explored by **Bruc
 
 Voila: language abilities **and** universal explanatory abilities could be the *same thing*. The vagueness of that claim shouldn’t worry us—vagueness is often the first step toward a sharper explanation.
 
----
-
 ## Universal Writing Systems
 
 Another crucial *jump to universality* occurred with writing systems capable of representing **any** word. As Deutsch notes in *The Beginning of Infinity* (ch. 6):
@@ -58,8 +53,6 @@ Another crucial *jump to universality* occurred with writing systems capable of 
 > *A small change in a system to meet a parochial purpose just happened to make the system universal as well.*
 
 So we have a universal system—writing—created accidentally on top of another accidental universal system—language. Is it surprising that machine-learning models **parochially** trained on massive corpora of writing also display signs of universality, accidentally, without their creators understanding the details?
-
----
 
 ## Language Models & the Brain
 
