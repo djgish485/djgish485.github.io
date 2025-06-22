@@ -16,7 +16,7 @@ It was thrilling when he gave me a thumbs-up — I’m not totally crazy!
 (Also I wish people didn't call universal quantum computers 'quantum Turing machines'. That leaves no natural term for Turing machines implemented in quantum hardware.)
 </p>
 &mdash; David Deutsch (@DavidDeutschOxf)
-<a href="https://twitter.com/DavidDeutschOxf/status/1177708960322129920">September 27, 2019</a>
+<a href="https://x.com/DavidDeutschOxf/status/1177672717274890241">September 27, 2019</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!----- /EMBED ----->
