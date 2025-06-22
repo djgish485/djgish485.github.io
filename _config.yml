@@ -1,5 +1,19 @@
 title: Stepping Stones
-theme: minima             # default GitHub Pages theme
+description: "Exploring what makes humans special."
+url: "https://djgish485.github.io"
+
+twitter:
+  username: djgish          # <-- your @ handle, no “@”
+
+logo: /assets/img/social-card.jpg   # tiny fallback
+image: /assets/img/social-card.jpg  # default OG/Twitter card
+
 plugins:
-  - jekyll-feed           # optional; good for RSS
-  - jekyll-seo-tag        # optional; adds <meta> tags
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:                     # make sure every page has an image
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/social-card.jpg
