@@ -24,8 +24,6 @@ This article assumes the existence of the **multiverse** — the many-worlds
 
 Quantum computers will be in the spotlight soon with the upcoming announcement of their supremacy \[edit: it most definitely happened\]. It’s common knowledge that a quantum computer is implemented with **qubits**, and qubits take on multiple values at the same time. But how exactly do they do that? And how does the computation take place? *Enter the multiverse.*
 
----
-
 ## Some background
 
 Modeling quantum phenomena is a difficult computational task that quickly becomes intractable using normal, classical computers. In the early ’80s, **Richard Feynman** realized that the quantum behavior *itself* was a form of computation. For example, the pattern made by interfering photons on the wall of the double-slit experiment is a form of computation.
@@ -33,8 +31,6 @@ Modeling quantum phenomena is a difficult computational task that quickly become
 Feynman figured out how to harness the computational ability of simple quantum phenomena to model more complicated ones. Soon after, **David Deutsch** extended this work to prove its universality — the universal quantum computer.
 
 Deutsch is also a foremost proponent of the multiverse — the explanation of quantum mechanics that **all possibilities do actually occur in parallel universes**. The reality of these parallel universes can be shown by the computation they perform inside a quantum computer.
-
----
 
 ## Parallel universes, parallel computation
 
@@ -47,8 +43,6 @@ The key to quantum computing, and what makes it so difficult, is that these qubi
 If a qubit does prematurely interact with its environment, the surroundings will differentiate into parallel universes as well, in what’s known as a **“wave of differentiation.”** Each universe’s computation is now lost to the others. If you were the operator of the computer, there would be many copies of you, each seeing a small part of the failed computation that your universe ran. Essentially, it’s now impossible to make the universes identical and put them back together — aka *decoherence*.
 
 This, by the way, is our normal experience of the macroscopic world — the parallel universes, the parallel versions of us, **cannot communicate with each other**. A quantum computer creates a special environment that allows communication between parallel universes.
-
----
 
 ## Why the multiverse is the only clear explanation
 
