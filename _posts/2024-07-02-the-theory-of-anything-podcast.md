@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Theory of Anything podcast invited me on"
+title:  "The Theory of Anything podcast had me on"
 subtitle: "What are the limits of human understanding?"
 date:   2024-07-02 12:00:00 +0000
 tags:   [podcast, universal-explainers, agi]
