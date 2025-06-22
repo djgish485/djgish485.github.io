@@ -12,8 +12,7 @@ It was thrilling when he gave me a thumbs-up — I’m not totally crazy!
 <!----- EMBEDDED TWEET ----->
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">
-@djgish Looks right to me, but I'd have mentioned that most parallelisable computations aren't quantum parallelisable.<br><br>
-(Also I wish people didn't call universal quantum computers 'quantum Turing machines'. That leaves no natural term for Turing machines implemented in quantum hardware.)
+@djgish Looks right to me, but I'd have mentioned that most parallelisable computations aren't quantum parallelisable.
 </p>
 &mdash; David Deutsch (@DavidDeutschOxf)
 <a href="https://x.com/DavidDeutschOxf/status/1177672717274890241">September 27, 2019</a>
