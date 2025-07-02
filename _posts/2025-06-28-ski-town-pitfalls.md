@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ski Town pitfalls"
+title: "Ski Town Pitfalls"
 date: 2025-06-28 12:00:00 +0000
 tags: [reflection, seasonality, ski-town]
 ---
