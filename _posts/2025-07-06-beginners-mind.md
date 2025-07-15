@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beginner’s Mind: The Simplest Meditation Practice"
+title: "Beginner’s Mind"
 date: 2025-07-06 12:00:00 +0200
 tags: [meditation, mindfulness, creativity, beginner's mind]
 ---
