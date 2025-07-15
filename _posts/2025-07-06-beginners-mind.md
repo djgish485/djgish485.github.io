@@ -15,7 +15,7 @@ Sit up straight in a chair so that you're not leaning back. Set a timer - I like
 
 A key to me is that Beginner's Mind. If you find yourself making it too complicated, **return to that state of mind before you began trying to improve.** After all, this practice is the simplest possible activity you can do!
 
-As you relax your sympathetic mind your parasympathetic mind will start to take over. Often times a bunch of creative thought will come up. Usually that's quite pleasant but sometimes we create nightmares for ourselves too. In any case our controlling mind often tends to want to make use of that creativity, (which is kinda counter to the pure creativity itself btw.) Keep coming back to relaxing that; keep coming simply back to the outbreath.
+As you relax your sympathetic mind your parasympathetic mind will start to take over. Often times a bunch of creative thought will come up. Usually that's quite pleasant but sometimes we create nightmares for ourselves too. In any case our controlling mind often tends to want to make use of that creativity, (which is kinda counter to the pure creativity itself imo.) Keep coming back to relaxing that; keep coming simply back to the outbreath.
 
 That's the practice. The most simple meditation is also the most advanced if you ask me. And perhaps the most ultimate version of this happens after the final bell goes off - you just return to the state of mind you had before you ever began meditating.
 
