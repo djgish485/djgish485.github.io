@@ -5,7 +5,7 @@ date: 2025-07-06 12:00:00 +0200
 tags: [meditation, mindfulness, creativity, beginner's mind]
 ---
 
-Meditation is about relaxing the sympathetic mind's control and allowing the parasympathetic mind to take over. I find this highly beneficial - the parasympathetic mind is where our creativity lies, creativity being a function of our sub-conscious. As a side benefit you became more relaxed and rested.
+Meditation is about relaxing the sympathetic mind's control and allowing the parasympathetic mind to take over. I find this highly beneficial - the parasympathetic mind is where our creativity lies, creativity being a function of our sub-conscious. As a side benefit you become more relaxed and rested.
 
 I've been practicing meditation for a long time and there are pitfalls. I think it comes down to the fact that our sympathetic mind is always finding ways, sometimes quite subtly, of exerting control. (In fact I think that's the function of the sympathetic mind itself). So more advanced practices can be often subverted by the thing we're trying to relax itself - our controlling mind.
 
