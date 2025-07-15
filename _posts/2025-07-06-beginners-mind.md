@@ -11,7 +11,7 @@ I've been practicing meditation for a long time and there are pitfalls. I think 
 
 I think it's best to keep things simple. Something you may have heard of - beginner's mind. 
 
-Sit up straight in a chair so that you're not leaning back. Set a timer - I like the Insight Timer app. The idea, the method is simple - just pay attention to your outbreath. If you find yourself thinking, gently return your attention to the outbreath. If you're really off in fantasy, when you catch it gently say to yourself "thinking" and return to the outbreath. Keep your eyes slightly open looking a few feet ahead on the ground, although if they close that's fine. That's it. Do that for 5 or 10 minutes to start.
+Sit up straight in a chair so that you're not leaning back. Set a timer - I like the Insight Timer app. The method is simple - just pay attention to your outbreath. If you find yourself thinking, gently return your attention to the outbreath. If you're really off in fantasy, when you catch it gently say to yourself "thinking" and return to the outbreath. Keep your eyes slightly open looking a few feet ahead on the ground, although if they close that's fine. That's it. Do that for 5 or 10 minutes to start.
 
 A key to me is that Beginner's Mind. If you find yourself making it too complicated, **return to that state of mind before you began trying to improve.** After all, this practice is the simplest possible activity you can do!
 
