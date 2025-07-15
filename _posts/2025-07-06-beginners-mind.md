@@ -13,7 +13,7 @@ I think it's best to keep things simple. Something you may have heard of - begin
 
 Sit up straight in a chair so that you're not leaning back. Set a timer - I like the Insight Timer app. The idea, the method is simple - just pay attention to your outbreath. If you find yourself thinking, gently return your attention to the outbreath. If you're really off in fantasy, when you catch it gently say to yourself "thinking" and return to the outbreath. Keep your eyes slightly open looking a few feet ahead on the ground, although if they close that's fine. That's it. Do that for 5 or 10 minutes to start.
 
-A key to me is that Beginners Mind. If you find yourself making it too complicated, **return to that state of mind before you began trying to improve.** After all, this practice is the simplest possible activity you can do!
+A key to me is that Beginner's Mind. If you find yourself making it too complicated, **return to that state of mind before you began trying to improve.** After all, this practice is the simplest possible activity you can do!
 
 As you relax your sympathetic mind your parasympathetic mind will start to take over. Often times a bunch of creative thought will come up. Usually that's quite pleasant but sometimes we create nightmares for ourselves too. In any case our controlling mind often tends to want to make use of that creativity, (which is kinda counter to the pure creativity itself btw.) Keep coming back to relaxing that; keep coming simply back to the outbreath.
 
