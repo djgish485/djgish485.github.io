@@ -6,7 +6,7 @@ date:   2021-04-21 12:00:00 +0000
 tags:   [quantum-computing, multiverse, deutsch]
 ---
 
-Mainstream explanations of quantum computers felt vague and confusing until I found **David Deutsch**, a key founder of the field. It was thrilling when he gave me a thumbs-up to this - I’m not totally crazy!
+Mainstream explanations of quantum computers felt vague and confusing until I found **David Deutsch**, a key founder of the field. It was thrilling when he gave me a thumbs-up to this article - I’m not totally crazy!
 
 <!----- EMBEDDED TWEET ----->
 <blockquote class="twitter-tweet">
