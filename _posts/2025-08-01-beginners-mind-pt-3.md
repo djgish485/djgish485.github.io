@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beginner's Mind Pt. 3"
+title: "Beginner's Mind pt. 3"
 date: 2025-08-01 12:00:00 +0200
 tags: [beginner's mind, mindfulness, compassion]
 ---
