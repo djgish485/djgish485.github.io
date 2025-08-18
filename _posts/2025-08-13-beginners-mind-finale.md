@@ -9,7 +9,7 @@ Finding meaning in the meaningless. I guess that's what it's all about. Come int
 
 It can seem endless, and maybe in some sense it is. It can seem meaningless, and maybe in some sense it is at the time. But the path itself creates meaning out of all of it. The fact that there is a path. I spose it's something that needs to be experienced.
 
-The finale is about letting go. When you’ve honestly made friends with your neurosis this becomes possible. But you can’t hold on to it. When you’re practiced it has more of a fluttering quality - sympathetic controlling mind takes over, you catch it and come back to the parasympathetic mind. Sit with this in mediation and it can all settle down nicely. Maybe you can even catch a glimpse of how that pure openness is the background for it all, tying this whole thing together.
+The finale is about letting go. When you’ve honestly made friends with your neurosis this becomes possible. But you can’t hold on to it. When you’re practiced it has more of a fluttering quality - sympathetic controlling mind takes over, you catch it and come back to the parasympathetic mind. Sit with this in meditation and it can all settle down nicely. Maybe you can even catch a glimpse of how that pure openness is the background for it all, tying this whole thing together.
 
 Good luck.
 
