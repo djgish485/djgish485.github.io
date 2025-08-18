@@ -5,7 +5,7 @@ date: 2025-08-13 12:00:00 +0200
 tags: [beginner's mind, mindfulness, compassion, finale]
 ---
 
-Finding meaning in the meaningess. I guess that's what it's all about. Come into it with an innocent open [Beginner's Mind](https://dangish.net/2025/07/06/beginners-mind.html), face your neurosis by [feeling + investigating it](https://dangish.net/2025/07/27/beginners-mind-pt-2.html), seeing if it's a real problem. Add in a dash or a bucket of [compassion](https://dangish.net/2025/08/01/beginners-mind-pt-3.html), then let it all dissolve into pure openness, god willing.
+Finding meaning in the meaningless. I guess that's what it's all about. Come into it with an innocent open [Beginner's Mind](https://dangish.net/2025/07/06/beginners-mind.html), face your neurosis by [feeling + investigating it](https://dangish.net/2025/07/27/beginners-mind-pt-2.html), seeing if it's a real problem. Add in a dash or a bucket of [compassion](https://dangish.net/2025/08/01/beginners-mind-pt-3.html), then let it all dissolve into pure openness, god willing.
 
 It can seem endless, and maybe in some sense it is. It can seem meaningless, and maybe in some sense it is at the time. But the path itself creates meaning out of all of it. The fact that there is a path. I spose it's something that needs to be experienced.
 
