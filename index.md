@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "Dan Gish"
 subtitle: "Humans are capable of anything"
 ---
 
