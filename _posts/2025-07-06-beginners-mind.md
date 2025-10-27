@@ -28,6 +28,8 @@ That's the practice. The most simple meditation is also the most advanced if you
 GOING FOR A WALK is a simple + natural way to calm the sympathetic mind. I go for alot of short walks. If I'm wound up I'll go for a short walk especially before meditating!
 
 
+## Beginner's Mind pt. 2
+
 Of course [Beginner's Mind](https://dangish.net/2025/07/06/beginners-mind.html) often ain't so simple. Emotions are often sticky. There's information in them. Emotional suppression driven by sympathetic controlling mind is a thing, and even has its usefulness. But a key aspect of Beginner's Mind seems to be just allowing yourself to feel whatever you want + need to feel.
 
 The deeper practice is to harness our natural curiosity and be curious about all our feelings + emotions + situation in general — is it really an intractable problem? If the answer is No and we know it, it brings us back to a wise simplicity, an advanced Beginner's Mind you might say.
@@ -45,6 +47,11 @@ So ya, what I'm getting at here is Beginner's Mind Pt 3. Hah.
 
 But it's true though — meditation -> simply bringing your attention back to the breath, brings you back to a primordial state of mind that's very shifting & dynamic, and the compassion, the softness allows you to touch into that dynamic, not bowl it over with what you thought that static state of mind was or bounce off back to the familiar neurosis. Comforting neurosis.
 
+
+## Beginner's Mind pt. 3
+
+
+## Beginner's Mind - Finale
 
 Finding meaning in the meaningless. I guess that's what it's all about. Come into it with an innocent open [Beginner's Mind](https://dangish.net/2025/07/06/beginners-mind.html), face your neurosis by [feeling + investigating it](https://dangish.net/2025/07/27/beginners-mind-pt-2.html), seeing if it's a real problem. Add in a dash or a bucket of [compassion](https://dangish.net/2025/08/01/beginners-mind-pt-3.html), then let it all dissolve into pure openness, god willing.
 
