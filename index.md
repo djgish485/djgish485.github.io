@@ -7,6 +7,6 @@ Hi I'm Dan - I'm interested in what makes humans special, the difference between
 
 In a previous life I was technical co-founder of SchoolFusion, an educational software co that connected millions of students, teachers & parents together. Since exiting I've worked on GPS social networks, a delayed messaging "art project", AR architecture, and one of the [first contact-tracing apps](https://www.cbsnews.com/colorado/news/coronavirus-social-smart-contact-tracing-app/).
 
-Currently working on Mechanix to add coaching to any video & [Project Lifespan](/project-lifespan/) to understand theories of aging.
+Currently working on [Mechanix](https://getmechanix.com) to add coaching to any video & [Project Lifespan](/project-lifespan/) to understand theories of aging.
 
 This is my twitter: [@djgish](https://x.com/djgish)
